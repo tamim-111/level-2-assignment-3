@@ -4,9 +4,9 @@ This project implements a Vehicle Rental System database using PostgreSQL. It in
 
 ### Links:
 
-- Repository:
-- ERD link:
-- Viva video link:
+- Repository: https://github.com/tamim-111/level-2-assignment-3
+- ERD link: https://drawsql.app/teams/muhammad-tamim/diagrams/b6a3-erd
+- Viva video link: https://www.canva.com/design/DAG9D1r0A50/jpT9kThPCMsnUmnP7lznAw/edit?utm_content=DAG9D1r0A50&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
 ### Query 1: JOIN
